@@ -17,7 +17,7 @@
 :pushpin: 아파트/주택 매매/전,월세 거래 정보에 대해 법정동 또는 아파트 이름으로 검색이 가능하다.
 <br>
 <br>
-<img src="/uploads/6d4fc903515f3f2a24c7d6811d9b760f/main.PNG" width="500" height="300">
+<img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/6d4fc903515f3f2a24c7d6811d9b760f/main.PNG" width="500" height="300">
 <br>
 <br>
 
@@ -25,19 +25,19 @@
 &nbsp; &nbsp; &nbsp; &nbsp; :heavy_check_mark: 아파트 이름 클릭 시 해당 아파트의 이미지 및 거래 정보(이름, 거래/월세금액, 건축 연도 등) 확인 가능
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/7b5cded69a9bbf2ad2a61b2993403c06/apartment_image" width="500" height="300">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/7b5cded69a9bbf2ad2a61b2993403c06/apartment_image" width="500" height="300">
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; :heavy_check_mark: 아파트 이름으로 검색 가능
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/547f19aa86a1f79be27f6d7d15584a70/apartment_search" width="500" height="300">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/547f19aa86a1f79be27f6d7d15584a70/apartment_search" width="500" height="300">
 <br>
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; :heavy_check_mark: 법정동 이름으로 검색 가능
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/ccaede255978259ee870c13ceb89a6cd/dong_search" width="500" height="300">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/ccaede255978259ee870c13ceb89a6cd/dong_search" width="500" height="300">
 
 <br>
 <h3> 부가 기능 </h3>
@@ -49,17 +49,17 @@
 &nbsp; &nbsp; &nbsp; &nbsp; :heavy_check_mark: 버튼을 클릭하면 업체명, 주소시, 점검일이 있는 표(table)와 검색창, 검색 버튼으로 구성된 윈도우 창이 생성된다.
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/e86082b3cfd0b11f0813c8c9954c0845/environment_btn" width="200" height="50">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/e86082b3cfd0b11f0813c8c9954c0845/environment_btn" width="200" height="50">
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/fbde3c8f4fb4497c762bf6248b99cb54/click" width="500" height="300">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/fbde3c8f4fb4497c762bf6248b99cb54/click" width="500" height="300">
 <br>
 <br>
 :pushpin: 법정동으로 검색 가능<br>
 &nbsp; &nbsp; &nbsp; &nbsp; :heavy_check_mark: 원하는 법정동의 환경 시설을 목록으로 확인
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="/uploads/8d5448e28b83df953136e9a0e119b5e5/environment_search" width="300" height="300">
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lab.ssafy.com/gbjhgy126/pjt_daejeon_8th_class5_java_team11/uploads/8d5448e28b83df953136e9a0e119b5e5/environment_search" width="300" height="300">
 
 
 <br>
